@@ -1,4 +1,4 @@
-# Desafio 01 - Introdução ao SOLID
+# Desafio - Introdução ao SOLID
 
 # 💻 Sobre o desafio
 
